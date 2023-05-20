@@ -7,7 +7,7 @@ Hello there! I'm Uduak Afang, and I'm thrilled to have you visit my portfolio. I
 		These experiences have provided me with a solid foundation in areas such as Data Collection, Data Cleaning and Data Visualizations.
 		In addition to my passion for data analysis, I bring some skills which include Critical thinking, Problem-solving and Communication, which are vital in analyzing data and effectively communicating insights to drive business decisions.<p>
 
-My CV in [pdf]() 
+My CV in [pdf](https://github.com/UduakAfang/Portfolio/blob/main/Uduak%20Afang%20CV.pdf) 
 
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
