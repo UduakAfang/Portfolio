@@ -17,7 +17,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ Demsco Travel and Tour Performance Analysis
+	+ [Demsco Travel and Tour Performance Analysis] (#demsco-travel-and-tours-performance-analysis)
 - [Study Projects](#study-projects)
 	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
 	+ 
@@ -28,7 +28,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Demsco Travel and Tours Performance Analysis
-**Code:** []()    
+**Code:** ['demscoperformancequery.sql'](https://github.com/UduakAfang/Portfolio/blob/main/demscoperformancequery.sql)    
 **Description:** .  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 **Technology:** 
