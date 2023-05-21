@@ -62,7 +62,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - 
 
 ## Contacts
-- LinkedIn: [@nktnlx](https://www.linkedin.com/in/uduakafang)
+- LinkedIn: [@uduakafang](https://www.linkedin.com/in/uduakafang)
 - Telegram: 
 - Twitter: 
 - E-mail: uduakafang@gmail.com
