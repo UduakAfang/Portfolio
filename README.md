@@ -17,7 +17,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Demsco Travel and Tour Performance Analysis] (#demsco-travel-and-tours-performance-analysis)
+	+ [Demsco Travel and Tour Performance Analysis](#demsco-travel-and-tours-performance-analysis)
 	+
 - [Study Projects](#study-projects)
 	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
@@ -29,10 +29,12 @@ This repository serves to showcase my skills and as a platform to share my proje
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Demsco Travel and Tours Performance Analysis
-**Code:** ['demscoperformancequery.sql'](https://github.com/UduakAfang/Portfolio/blob/main/demscoperformancequery.sql)    
-**Description:** .  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** 
+**Code:** ['demscoperformancequery.sql'](https://github.com/UduakAfang/Portfolio/blob/main/demscoperformancequery.sql)
+**Presentation:** [`demscoperformanceanalysis.pdf`](https://github.com/UduakAfang/Portfolio/blob/main/Performance%20Analysis%20Slide.pdf)
+**Description:** This dataset contained about 1200 records as of 2021. This company had records in hard copy form so I entered them manually into an Excel spreadsheet.
+Each row showed the Ticket number, PNR number, Customer Name, Start and End location, Booking Date, Airline, Type of flight (International or Domestic), Class of Flight, Date of Travel, Return Date, Price and Charges. 
+**Skills:** data entry, data cleaning, data analysis, data visualization.  
+**Technology:** Excel, SQL(Mysql), PowerBI
 **Results:** 
 
 ## Study Projects
