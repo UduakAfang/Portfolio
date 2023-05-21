@@ -18,6 +18,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Demsco Travel and Tour Performance Analysis] (#demsco-travel-and-tours-performance-analysis)
+	+
 - [Study Projects](#study-projects)
 	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
 	+ 
