@@ -35,8 +35,8 @@ Each row showed the Ticket number, PNR number, Customer Name, Start and End loca
 
 
 ### Exploratory Data Analysis on Music x Mental Health Survey
-**Code:** ['musicxmentalhealth-eda.sql'](https://github.com/UduakAfang/Portfolio/blob/main/Music%20Therapy%20Query.sql))
-**Visualization:** [`musicxmentalhealth.pdf`](https://github.com/UduakAfang/Portfolio/blob/main/Music%26Mental%20Health%20EDA%20Visualization.pdf)
+**Code:** ['musicxmentalhealth-eda.sql'](https://github.com/UduakAfang/Portfolio/blob/main/Music%20Therapy%20Query.sql)
+**Visualization:**['musicxmentalhealth.pdf'](https://github.com/UduakAfang/Portfolio/blob/main/Music%26Mental%20Health%20EDA%20Visualization.pdf)
 **Description:** This dataset contained 736 records of survey answers. The aim was to identify what if any, correlations exist between an individual's music taste and their self-reported mental health. These findings could contribute to a more informed application of MT or simply provide interesting sights about the mind. 
 **Skills:** Data cleaning, analysis, visualization.  
 **Technology:** SQL(Mssql), PowerBI, PowerBI(python scripts)
