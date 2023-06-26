@@ -27,7 +27,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 ### Demsco Travel and Tours Performance Analysis
 **Code:** ['demscoperformancequery.sql'](https://github.com/UduakAfang/Portfolio/blob/main/demscoperformancequery.sql)
-**Presentation:** [`demscoperformanceanalysis.pdf`](https://github.com/UduakAfang/Portfolio/blob/main/Performance%20Analysis%20Slide.pdf)
+**Presentation:** [`demscoperformanceanalysis.pdf`](https://github.com/UduakAfang/Portfolio/blob/main/Demsco%20Performance%20Analysis%20Slide.pdf)
 **Description:** This dataset contained about 1200 records as of 2021. This company had records in hard copy form so I entered them manually into an Excel spreadsheet.
 Each row showed the Ticket number, PNR number, Customer Name, Start and End location, Booking Date, Airline, Type of flight (International or Domestic), Class of Flight, Date of Travel, Return Date, Price, and Charges. 
 **Skills:** data entry, cleaning, analysis, visualization.  
