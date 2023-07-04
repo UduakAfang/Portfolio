@@ -4,9 +4,9 @@
 
 Hello there! I'm Uduak Afang, and I'm thrilled to have you visit my portfolio.
 I am an aspiring and passionate data analyst, eager to make my mark in the world of data-driven insights. While I may not have a formal background in data analysis, I am a highly motivated individual with a strong desire to embark on a career in this exciting field. I am passionate about using data to uncover valuable insights and make informed decisions. 
-  My journey into the world of data analysis began in 2021 when I realized my deep curiosity about data and how data can drive meaningful outcomes. I have taken the initiative to independently learn key concepts, tools, and techniques through online courses, tutorials, and personal projects.
+  My journey into the world of data analysis began in 2021 when I realized my deep curiosity about data and how data can drive meaningful outcomes. I have taken the initiative to independently learn critical concepts, tools, and techniques through online courses, tutorials, and personal projects.
 		These experiences have provided me with a solid foundation in areas such as Data Collection, Data Cleaning, and Data Visualization.
-		In addition to my passion for data analysis, I bring some skills which include Critical thinking, Problem-solving, and Communication, which are vital in analyzing data and effectively communicating insights to drive business decisions.<p>
+		In addition to my passion for data analysis, I bring Critical thinking, Problem-solving, and Communication skills, which are vital in analyzing data and effectively communicating insights to drive business decisions.<p>
 
 My CV in [pdf](https://github.com/UduakAfang/Portfolio/blob/main/Uduak%20Afang%20CV.pdf) 
 
