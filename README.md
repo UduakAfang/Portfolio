@@ -18,7 +18,8 @@ This repository showcases my skills, as a platform to share my projects and a wa
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Customer Churn analysis](#customer-churn-analysis) 
+	+ [Analyzing Flipkart fashion products dataset](analyzing-flipkart-fashion-products-dataset)
+ 	+ [Customer Churn analysis](#customer-churn-analysis) 
  	+ [HCAHPS Survey Analysis](#hcahps-survey-analysis)
 	+ [Demsco Travel and Tour Performance Analysis](#demsco-travel-and-tours-performance-analysis)
 	+ [Exploratory Data Analysis on Music x Mental Health Survey](#exploratory-data-analysis-on-music-x-mental-health-survey)
@@ -28,10 +29,23 @@ This repository showcases my skills, as a platform to share my projects and a wa
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Analyzing Flipkart fashion products dataset
+This dataset contained 30,000 rows of  fashion product data on Flipkart. The data was in a JSON file, so this had to be parsed into a Table in a RDBMS. Data was cleaned and then analyzed to find trends and descriptive qualities of the dataset
+All of these were done using SQL, MSSQL to be exact.
+Steps were divided into 2 phases: 
+Phase 1: Parsing the JSON data and cleaning the data
+Phase 2: Analysing and finding trends
+**Code** ['Folder'](https://github.com/UduakAfang/Portfolio/tree/main/Flipkart%20data%20analysis)
+**Skills:** Data transformation, data cleaning, analysis.  
+**Technology:** SQL(MSSQL)
+
 ### Customer Churn Analysis
-Examining data of Existing and Attrited bank customers. The dataset consisted of 10,127 rows. 8500 existing customers and 1627 attrited customers.
-The task was to examine the characteristics of the churned customers and use this to predict existing customers that are likely tp churn.
-**Code**
+Examining data of Existing and Attrited bank customers. The dataset consisted of 10,127 rows: 8500 existing customers and 1627 attrited customers.
+The task was to examine the characteristics of the churned customers and use this to predict existing customers that are likely to churn. 
+**Code**['Sql Scripts'](https://github.com/UduakAfang/Portfolio/blob/main/Analysis%20of%20churned%20bank%20customers.ipynb)
+**Skills:** data cleaning, analysis.  
+**Technology:** SQL(MSSQL)
+
 ### HCAHPS Survey Analysis
 Analyzing 9 years of Hospital Consumer Assessment of Healthcare Providers and Systems surveys.
 Data consisted of 7 tables. 2 fact Tables in National and State results with other tables providing more information.
@@ -43,6 +57,8 @@ What recommendations can you make to hospitals to help them further improve the 
 
 **Code** ['HCAHPS Survey code'](https://github.com/UduakAfang/Portfolio/blob/main/Maven%20Healthcare%20Challenge/SQL%20Notebook%20Healthcare%20Challenge.ipynb)
 **Dashboard** ['HCAHPS Dashboard'](https://public.tableau.com/app/profile/uduak.afang/viz/MavenHealthCareChallenge_16917906652240/HCAHPSPatientDashboard2)
+**Skills:** Joining, Analysis, Visualization.  
+**Technology:** SQL(MSSQL), Tableau
 
 ### Demsco Travel and Tours Performance Analysis
 **Code:** ['demscoperformancequery.sql'](https://github.com/UduakAfang/Portfolio/blob/main/demscoperformancequery.sql)
